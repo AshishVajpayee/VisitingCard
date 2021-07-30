@@ -1,10 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AshishVajpayee)
 <a href="https://twitter.com/AshishVajpayee6" ><img src="https://img.shields.io/twitter/follow/AshishVajpayee6.svg?style=social" /> </a>
-# VisitingCard Lab Program_1 
 
-### Mobile Application Development 18CSMP68
-#### Tutorials
+## Mobile Application Development 18CSMP68
+### Tutorials
 - ["1. Visiting Card"](https://github.com/VisitingCard) <br>
 - ["2. Calculator"](https://github.com/Calculator) <br>
 - ["3. SignupLogin"](https://github.com/SignupLogin) <br>
