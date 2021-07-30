@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingTop="25dp"
+    android:paddingRight="20dp"
+    tools:context=".MainActivity">
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+
+    android:layout_height="59dp">
+
+
+<TextView android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="44dp"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentBottom="true"
+    android:layout_marginStart="31dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginBottom="10dp"
+    android:gravity="center"
+    android:text="BNM Institute of Technology"
+    android:textColor="#E61717"
+    android:textSize="20sp"
+    android:layout_alignParentLeft="true" />
+
+<ImageView
+    android:id="@+id/imageView4"
+    android:layout_width="48dp"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_marginLeft="11dp"
+    android:layout_marginBottom="0dp"
+    android:layout_toRightOf="@id/textView"
+    app:srcCompat="@drawable/bnm"/>
+
+</RelativeLayout>
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height="2dp"
+    android:background="#000000"
+    />
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Your Name"
+    android:textSize="20dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Computer Science"
+    android:textSize="16dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    />
+<View
+    android:layout_width="match_parent"
+    android:layout_height="2dp"
+    android:background="#000000"
+    />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="+911234567890"
+    android:textSize="16dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Bengaluru"
+    android:textSize="16dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Email:example@gmail.com"
+    android:textSize="16dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="www.bnmit.org"
+        android:textSize="16dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="400dp"
+        android:textColor="#000000"
+        android:gravity="center"
+        />
+</LinearLayout>
+
